@@ -1,4 +1,4 @@
-# E-Gift-Project (Admin Panel)
+# E-Gift-Project 
  E gift project is basically the developing of an e-commerce portal for selling different types of gifts online to Customers. This portal is equipped with the different types of products which customer can purchase the e-gift website aims to provide a seamless gifting experience that is both Thoughtful and efficient. 
  Frontend Technologies:
      HTML/CSS: For structuring and styling web pages.
